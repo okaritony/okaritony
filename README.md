@@ -1,4 +1,5 @@
 ### Hi there 👋
+Certainly, Okari Tony is a passionate traveler and dedicated student currently pursuing a degree. Born with a curiosity for the world, Okari's journey through life has been marked by a deep love for exploration and a commitment to academic excellence. His enthusiasm for travel is not just a hobby but a way of life, as he seeks to broaden his horizons and embrace diverse cultures.
 
 <!--
 **okaritony/okaritony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
